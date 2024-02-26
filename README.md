@@ -10,7 +10,7 @@ My journey in computer science, combined with my experience in network and cloud
 ## Projects
 
 - [Secure Cloud Architecture Implementation](https://github.com/arviiyer/AWS-Cloud-Architecture)
-- [Pentesting Metasploitable](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- [Pentesting Metasploitable](https://github.com/arviiyer/Pentesting-on-Metasploitable)
 - [Cyber Threat Intelligence Framework Implementation](https://github.com/joshmadakor1/EncrypterPOC)<b><i>  (In Progress)</i></b>
 
 ## Tools
