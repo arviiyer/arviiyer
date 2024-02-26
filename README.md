@@ -22,6 +22,30 @@ My journey in computer science, combined with my experience in network and cloud
     <img src="https://img.shields.io/badge/-Netcat-00FFFF?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
 
+### Vulnerability Assessment & Penetration Testing
+<div>
+    <img src="https://img.shields.io/badge/-Nessus-00C8FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-OpenVAS-2C2D72?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Metasploit-444444?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF6600?style=for-the-badge" />
+</div>
+
+### Threat Intelligence
+<div>
+    <img src="https://img.shields.io/badge/-MISP-000000?style=for-the-badge" />
+</div>
+
+### Incident Response & Case Management
+<div>
+    <img src="https://img.shields.io/badge/-TheHive-F5792A?style=for-the-badge" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
 ### AWS
 <div>
     <img src="https://img.shields.io/badge/-AWS_VPC-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -33,13 +57,6 @@ My journey in computer science, combined with my experience in network and cloud
     <img src="https://img.shields.io/badge/-AWS_GuardDuty-FFA500?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS_Systems_Manager-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
