@@ -11,7 +11,6 @@ My journey in computer science, combined with my experience in network and cloud
 
 - [Cyber Threat Intelligence Framework Implementation](https://github.com/arviiyer/CTI-Framework)
 - [Secure Cloud Architecture Implementation](https://github.com/arviiyer/AWS-Cloud-Architecture)
-- [Pentesting Metasploitable](https://github.com/arviiyer/Pentesting-on-Metasploitable)
 
 ## Tools
 
