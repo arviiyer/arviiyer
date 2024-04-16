@@ -43,7 +43,7 @@ My journey in computer science, combined with my experience in network and cloud
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-623CE4?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    ![Wazuh](https://img.shields.io/badge/-Wazuh-4B5563?style=for-the-badge&logo=Wazuh&logoColor=white)
     <img src="https://img.shields.io/badge/-Graylog-464646?style=for-the-badge&logo=Graylog&logoColor=white" />
 
 </div>
