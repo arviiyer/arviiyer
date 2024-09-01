@@ -10,7 +10,7 @@ My journey in computer science, combined with my experience in network and cloud
 ## Projects
 
 - [Threat Intelligence Powered SOC](https://github.com/arviiyer/threat-intel-soc)
-- [Terraform AWS Infrastructure Setup](https://github.com/arviiyer/aws-infra-with-terraform)
+- [Automated AWS Cloud Deployment Using Terraform](https://github.com/arviiyer/aws-infra-with-terraform)
 
 ## Tools
 
