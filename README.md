@@ -37,7 +37,7 @@ My journey in computer science, combined with my experience in network and cloud
 ### Incident Response & Case Management
 <div>
     <img src="https://img.shields.io/badge/-TheHive-F5792A?style=for-the-badge" />
-    <img scr="https://img.shields.io/badge/-DFIR--IRIS-006699?style=for-the-badge" />
+    ![DFIR-IRIS](https://img.shields.io/badge/-DFIR--IRIS-4A90E2?style=for-the-badge)
 </div>
 
 ### SIEM
