@@ -64,6 +64,7 @@ My journey in computer science, combined with my experience in network and cloud
 
 ## Certifications
 <div>
+    <img src="https://img.shields.io/badge/-AWS%20Certified%20Security%20Specialty-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/-ISC2_Certified_in_Cybersecurity-0052CC?style=for-the-badge" />
     <img src="https://img.shields.io/badge/-AWS_Certified_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/-CCNA-0073e6?style=for-the-badge&logo=cisco&logoColor=white" />
