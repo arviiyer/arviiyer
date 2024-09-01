@@ -9,7 +9,7 @@ My journey in computer science, combined with my experience in network and cloud
 
 ## Projects
 
-- [Cyber Threat Intelligence Framework Implementation](https://github.com/arviiyer/CTI-Framework)
+- [Threat Intelligence Powered SOC](https://github.com/arviiyer/threat-intel-soc)
 - [Terraform AWS Infrastructure Setup](https://github.com/arviiyer/aws-infra-with-terraform)
 
 ## Tools
