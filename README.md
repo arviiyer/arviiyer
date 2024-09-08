@@ -31,6 +31,7 @@ My journey in computer science, combined with my experience in network and cloud
 
 ### Threat Intelligence
 <div>
+    <img src="https://img.shields.io/badge/-OpenCTI-464646?style=for-the-badge&logo=opencti&logoColor=white" />
     <img src="https://img.shields.io/badge/-MISP-000000?style=for-the-badge" />
 </div>
 
@@ -42,7 +43,6 @@ My journey in computer science, combined with my experience in network and cloud
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-4B5563?style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Graylog-464646?style=for-the-badge&logo=Graylog&logoColor=white" />
