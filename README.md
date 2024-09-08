@@ -31,8 +31,8 @@ My journey in computer science, combined with my experience in network and cloud
 
 ### Threat Intelligence
 <div>
-    <img src="https://img.shields.io/badge/-OpenCTI-464646?style=for-the-badge&logo=opencti&logoColor=white" />
     <img src="https://img.shields.io/badge/-MISP-000000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-OpenCTI-464646?style=for-the-badge&logoColor=white" />
 </div>
 
 ### Incident Response & Case Management
