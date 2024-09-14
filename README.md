@@ -11,6 +11,7 @@ My journey in computer science, combined with my experience in network and cloud
 
 - [Threat Intelligence Powered SOC](https://github.com/arviiyer/threat-intel-soc)
 - [Automated AWS Cloud Deployment Using Terraform](https://github.com/arviiyer/aws-infra-with-terraform)
+- [Threat Detection and Alerting in AWS](https://github.com/arviiyer/aws-threat-detection-alerting)
 
 ## Tools
 
