@@ -1,11 +1,11 @@
 # Hello, I'm Arvind!
 <a href="https://linkedin.com/in/arviiyer"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a cybersecurity student with a profound interest in blue teaming and a dedication to solving complex problems.
+I'm a cybersecurity practitioner with a strong foundation in cloud security, blue teaming, and automation. I enjoy designing practical detection pipelines, building secure infrastructure, and enabling faster incident response through engineering.
 
 ## Objective
 
-My journey in computer science, combined with my experience in network and cloud technologies, has fueled my passion for cybersecurity. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as an Analyst.
+With hands-on experience in cloud platforms (AWS, GCP), SOC tools, and DevSecOps pipelines, I’m focused on roles in security operations, cloud security, and detection engineering — where I can drive automation, visibility, and resilience.
 
 ## Projects
 
