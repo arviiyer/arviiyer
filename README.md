@@ -12,7 +12,7 @@ With hands-on experience in cloud platforms (AWS, GCP), SOC tools, and DevSecOps
 - [AWS Threat Detection & Response Orchestrator](https://github.com/arviiyer/aws-threat-detection-alerting)
 - [CI/CD Pipeline for Containerized Deployments](https://github.com/arviiyer/spring-boot-ci-cd)
 - [SecureVault](https://github.com/arviiyer/securevault)
-- [Threat Intelligence Powered SOC](https://github.com/arviiyer/threat-intel-soc)
+- [Open-Source SOC Stack](https://github.com/arviiyer/threat-intel-soc)
 - [Automated AWS Cloud Deployment Using Terraform](https://github.com/arviiyer/aws-infra-with-terraform)
 
 ## Tools
